@@ -22,10 +22,6 @@ and provide insights into bookings, revenue, trip distance, and ride trends.
 - Vehicle type analysis
 - Payment method analysis
 
-## 🖼️ Dashboard Preview
-
-![Uber Dashboard](Overview_Page.png)
-
 ## 🎥 Project Demo
 
 Watch the dashboard demonstration.
