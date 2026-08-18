@@ -24,17 +24,12 @@ and provide insights into bookings, revenue, trip distance, and ride trends.
 
 ## 🖼️ Dashboard Preview
 
-![Uber Dashboard](images/Overview_Page.png)
+![Uber Dashboard](Overview_Page.png)
 
 ## 🎥 Project Demo
 
 Watch the dashboard demonstration.
 
-## 💡 Key Insights
-
-- ...
-- ...
-- ...
 
 ## 👤 Author
 Mohamed Alaa
